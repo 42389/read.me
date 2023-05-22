@@ -1,8 +1,6 @@
 # read.me
 ### coding languages
-------------------------
-Language	  Proficiency 
-------------------------
+
 Python	    | Learning
 JavaScript  | Novice
 Java	      | Not Learnt
